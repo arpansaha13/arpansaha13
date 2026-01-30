@@ -11,6 +11,7 @@
 ## Projects
 
 - **[Chat Application](https://github.com/arpansaha13/messaging-system)** - A scalable real-time chat application with read receipts.
+- **[Figma Export](https://github.com/arpansaha13/figma-export)** - CLI to select Figma files from a project and download .fig exports
 - **[Pariksha](https://github.com/arpansaha13/pariksha)** - A comprehensive online exam platform.
 
 ## What I'm Doing
